@@ -27,14 +27,14 @@ _Achtung:_ Wenn Sie Windows verwenden, benutzen Sie die _zip_-Datei, wenn Sie Li
 
 Um die folgenden Änderungen, die Sie an den Quellen und dem Build-File vornehmen verfolgen zu können, verwenden Sie Git. Checken Sie dazu die Original-Version von Tomcat ein und verfolgen Sie danach Ihre Änderungen bis zum funktionierenden Build mit entsprechenden Checkins.
 
-Gerne können Sie auch ein Skript schreiben, dass alle manuellen Operationen durchführt und so eine Nachverfolgung und Dokumentation Ihrer Änderungen vornehmen.
+Gerne können Sie auch ein Skript schreiben, das alle manuellen Operationen durchführt und so eine Nachverfolgung und Dokumentation Ihrer Änderungen vornehmen.
 
 
 ## Tomcat bauen
 
 Versuchen Sie Tomcat mit dem vorhandenen Build-Skript `build.xml` und Ant zu bauen. Wahrscheinlich müssen Sie Änderungen an den Build-Einstellungen in `build.properties.default` vornehmen, damit der Build durchläuft. Je nach Umgebung kann es auch sein, dass Sie die `build.xml` selbst anfassen müssen. Hierfür werden Sie ein grundlegendes Verständnis des Build-Vorgangs brauchen und den Aufbau der `build.xml` verstehen müssen. Schauen Sie sich die `build.xml` aufmerksam an, um die Funktionsweise abzuleiten. Hinweise finden Sie auch in der Datei `BUILDING.txt`.
 
-Beachten Sie auch, dass Sie bevor Sie Tomcat bauen können mit `ant download` die Bibliotheken herunterladen müssen, die für das Compilieren gebraucht werden. Beachten Sie, dass diese Bibliotheken standardmäßig außerhalb der Quellen von Tomcat abgespeichert werden. Mglw. wollen Sie dies ändern, damit Sie alles an einem Ort haben.
+Beachten Sie auch, dass Sie bevor Sie Tomcat bauen können mit `ant download` die Bibliotheken herunterladen müssen, die für das Compilieren gebraucht werden. Standardmäßig werden diese Bibliotheken außerhalb der Quellen von Tomcat abgespeichert. Mglw. wollen Sie dies ändern, damit Sie alles an einem Ort haben.
 
 
 ## Tomcat starten
@@ -61,4 +61,4 @@ Wenn Sie erfolgreich waren, sollte sich Tomcat auch aus Eclipse heraus starten l
 
 Wenn Sie alle Schritte abgeschlossen haben, checken Sie die Ergebnisse in Ihr Git-Repository ein. Es muss möglich sein, Ihr Repository zu clonen und einen Build von Tomcat zu starten. Dieser muss problemlos durchlaufen.
 
-Reflektieren Sie über den Build Vorgang und die von Ihnen gemachten Schritte. Denken Sie darüber nach, was an dem Prozess kompliziert war oder schlecht gelaufen ist und fassen Sie dies kurz in einem kleinen Readme zusammen, dass Sie ebenfalls einchecken.
+Reflektieren Sie über den Build Vorgang und die von Ihnen gemachten Schritte. Denken Sie darüber nach, was an dem Prozess kompliziert war oder schlecht gelaufen ist und fassen Sie dies kurz in einem _kleinen Readme-Dokument_ zusammen, dass Sie ebenfalls einchecken.
