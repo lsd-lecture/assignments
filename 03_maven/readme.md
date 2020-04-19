@@ -57,7 +57,7 @@ Folgendes Material kann Ihnen helfen
     - S. 117ff. [Christian Baun. Computernetze kompakt](http://link.springer.com/book/10.1007/978-3-662-46932-3) (aus dem Hochschulnetz kostenlos)
 
 
-## User auf den Server anlegen
+## User auf den Servern anlegen
 
 Legen Sie auf den Servern für die Mitglieder Ihres Teams User an und installieren Sie entsprechend weitere SSH-Keys, damit Sie sich auch unter Ihrem User anmelden können.
 
