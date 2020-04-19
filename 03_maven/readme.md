@@ -27,6 +27,8 @@ Die von Ihnen geschriebene `pom.xml` sollte unter 100 Zeilen haben und damit deu
 
 Ein _typischer Fehler_ besteht darin, Tomcat selbst als Dependency zu importieren. Dies ist natürlich nicht sinnvoll, da Ihr Build in diesem Fall gar nichts baut.
 
+Denken Sie daran, Ihr _Eclipse-Projekt_ so _anzupassen_, dass es mit der neuen Struktur klar kommt.
+
 
 ## Abgabe
 
@@ -57,7 +59,7 @@ Folgendes Material kann Ihnen helfen
     - S. 117ff. [Christian Baun. Computernetze kompakt](http://link.springer.com/book/10.1007/978-3-662-46932-3) (aus dem Hochschulnetz kostenlos)
 
 
-## User auf den Server anlegen
+## User auf den Servern anlegen
 
 Legen Sie auf den Servern für die Mitglieder Ihres Teams User an und installieren Sie entsprechend weitere SSH-Keys, damit Sie sich auch unter Ihrem User anmelden können.
 
