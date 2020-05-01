@@ -84,7 +84,7 @@ Schreiben Sie sich ein weiteres Shellskript (`run.sh`), dass diese Kommandozeile
 ## IDE-Einbindung
 
 Passen Sie die Einbindung von Tomcat in Ihre IDE (Eclipse etc.) so an, dass Sie Tomcat weiterhin per IDE starten können.
-7
+
 ## Kriterien
 
 Folgende Kriterien sind wichtig:
