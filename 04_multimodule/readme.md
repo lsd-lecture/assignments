@@ -100,6 +100,8 @@ Folgende Kriterien sind wichtig:
   * [Servlet Examples](http://localhost:8080/examples/servlets/) lassen sich aufrufen und funktionieren alls
   * [JSP-Examples](http://localhost:8080/examples/jsp/) lassen sich aufrufen und funktionieren
 
+Die Anzeige der Quelltexte bei den JSP-Examples muss _nicht_ funktionieren, d.h. Sie können Sie die Generierung der entsprechenden HTML-Dateien sparen.
+
 
 ## Hinweise
 
