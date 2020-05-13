@@ -8,4 +8,5 @@
 | 3. | 28.04.2020 | [Assignment 3: Ein modernes Build-Tool für Tomcat](03_maven/readme.md) |
 | 4. | 05.05.2020 | [Assignment 4: Multi-Module Build mit Maven](04_multimodule/readme.md) |
 | 5. | 12.05.2020 | [Assignment 5: Dropje voor dropje kwaliteit](05_tests/readme.md) |
+| 6. | 26.05.2020 | [Assignment 6: Ein Butler für Sie](06_jenkins/readme.md) |
 
