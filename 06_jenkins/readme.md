@@ -76,7 +76,7 @@ Für den Build als Maven-Projekt funktioniert die Generierung der Seiten und die
 
 Im Pipeline-Build können Sie das [HTML Publisher-Plugin](https://www.jenkins.io/doc/pipeline/steps/htmlpublisher) verwenden, um die generierte Maven-Site in Ihre Jenkins-Übersicht aufzunehmen.
 
-```json
+```console
   publishHTML target: [
     allowMissing: false,
     alwaysLinkToLastBuild: false,
