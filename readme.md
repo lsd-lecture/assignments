@@ -9,4 +9,5 @@
 | 4. | 05.05.2020 | [Assignment 4: Multi-Module Build mit Maven](04_multimodule/readme.md) |
 | 5. | 12.05.2020 | [Assignment 5: Dropje voor dropje kwaliteit](05_tests/readme.md) |
 | 6. | 26.05.2020 | [Assignment 6: Ein Butler für Sie](06_jenkins/readme.md) |
+| 7. | 09.06.2020 | [Assignment 7: Architektur-Archäologie mit Indiana Jones](07_archaeologie/readme.md) |
 
