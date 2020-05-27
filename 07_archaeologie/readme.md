@@ -35,4 +35,4 @@ Zeichnen Sie ein Sequenz-Diagramm oder wählen Sie eine andere Adäquate Darstel
 
 ## Abgabe
 
-_Abgabe_: Dokumentieren Sie die von Ihnen gefundene Architektur, die groben Aufgaben der Pakete und checken Sie die Ergebnisse in das GitHub-Repository Ihrer Gruppe im Verzeichnis `documentation` ein. Wählen Sie eine adäquate Darstellung (Text/Diagramm).
+_Abgabe_: Dokumentieren Sie die von Ihnen gefundene Architektur, die groben Aufgaben der Pakete und checken Sie die Ergebnisse in das GitHub-Repository Ihrer Gruppe im Verzeichnis `documentation` ein. Wählen Sie eine adäquate Darstellung (Text/Diagramm). Als Dateiformat wählen Sie bitte Markdown (.md), Text (.txt) oder Portable Document Format (PDF).
