@@ -44,4 +44,4 @@ Da es bei dieser Aufgabe um sehr subjektive Einschätzungen geht, die sich nicht
 _Abgabe_:
 
   * Die _Projektdokumentation_ sollte sich in Ihrem Repository befinden.
-  * Den _Reflection-Report_ laden Sie bitte im Moodle als PDF hoch, damit die Informationen vertraulich bleiben.
+  * Den _Reflection-Report_ laden Sie bitte im [Moodle als PDF hoch](https://moodle.hs-mannheim.de/mod/assign/view.php?id=121173), damit die Informationen vertraulich bleiben.
