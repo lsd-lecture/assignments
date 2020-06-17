@@ -11,5 +11,5 @@
 | 6. | 26.05.2020 | [Assignment 6: Ein Butler für Sie](06_jenkins/readme.md) |
 | 7. | 09.06.2020 | [Assignment 7: Architektur-Archäologie mit Indiana Jones](07_archaeologie/readme.md) |
 | 8. | 23.06.2020 | [Assignment 8: All your container are belong to us](08_docker/readme.md) |
-| 9. | 30.06.202 | [Assignment 11: Don't look back in anger](09_reflection/readme.md) |
+| 9. | 30.06.2020 | [Assignment 11: Don't look back in anger](09_reflection/readme.md) |
 
